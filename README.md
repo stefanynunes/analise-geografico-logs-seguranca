@@ -53,6 +53,6 @@ Você pode baixar o arquivo completo aqui:
 
 ## 👩‍💻 Autora
 
-Stefany  Nunes — Projeto desenvolvido para fins educacionais e construção de portfólio.
+Stefany  Nunes —  Projeto desenvolvido para fins educacionais e construção de portfólio, com foco em análise de dados aplicada à detecção de riscos e apoio à Segurança da Informação.
 
 
